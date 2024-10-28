@@ -42,7 +42,7 @@
             
         </table>
     </div>
-    <button type="button" class="btn btn-danger" onclick="funcion2()">MIS COMPAS</button>
+    <button type="button" class="btn btn-danger" onclick="funcion1()">MIS COMPAS</button>
     <div style="padding: 20px;background-color: beige;border: 2px solid black;height: 200px;width: 400px;float: right">
         <p style="text-align: center;">Gastos semanales</p>
         <br>

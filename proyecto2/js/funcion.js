@@ -21,7 +21,7 @@ function funcion1() {
     document.getElementById("demo8").innerHTML = compra3;
     document.getElementById("demo9").innerHTML = compra4;
     document.getElementById("demo10").innerHTML = compra5;
-    //Este estoy usando parsefloat de si encargas por en ejemplo con decimales aunque seria mejor con parseInt
+    //Este estoy usando parsefloat de si encargas por en ejemplo con decimales aunque seria mejor con parseInt para que sea entero
     //resultado = parseFloat(compra1) + parseFloat(compra2) + parseFloat(compra3) + parseFloat(compra4) + parseFloat(compra5);
     resultado=(Number(compra1) + Number(compra2) + Number(compra3) + Number(compra4) + Number(compra5));
     document.getElementById("resultado").innerHTML = resultado;
