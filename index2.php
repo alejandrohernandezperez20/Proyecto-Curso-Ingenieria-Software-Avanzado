@@ -1,4 +1,5 @@
 <?php include 'log/header.php'?>
+<script src="./js/funcion.js"></script>
 <div
     class="container" style="margin-top: 50px;"
 >
@@ -23,29 +24,30 @@
             <tbody>
                 <tr class="">
                     <td scope="row"><b>PRODUCTOS:</b></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <td id="demo1"></td>
+                    <td id="demo2"></td>
+                    <td id="demo3"></td>
+                    <td id="demo4"></td>
+                    <td id="demo5"></td>
                 </tr>
                 <tr class="">
                     <td scope="row"><b>GASTOS:</b></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <td id="demo6"></td>
+                    <td id="demo7"></td>
+                    <td id="demo8"></td>
+                    <td id="demo9"></td>
+                    <td id="demo10"></td>
                 </tr>
             </tbody>
             
         </table>
     </div>
-    <button type="button" class="btn btn-danger">MIS COMPAS</button>
+    <button type="button" class="btn btn-danger" onclick="funcion2()">MIS COMPAS</button>
     <div style="padding: 20px;background-color: beige;border: 2px solid black;height: 200px;width: 400px;float: right">
         <p style="text-align: center;">Gastos semanales</p>
         <br>
-        <p>Totales gastos:</p>
+        <p>Totales gastos semanal: </p>
+        <p  id="resultado"></p>
     </div>
 </div>
 
