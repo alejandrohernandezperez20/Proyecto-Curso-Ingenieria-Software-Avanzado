@@ -18,7 +18,7 @@
         />
     </head >
 
-    <body style="background-image:url(img/1.png);background-size: 500px;background-repeat:no-repeat;">
+    <body style="background-image:url(img/1.png);background-size: 800px;background-repeat:no-repeat;">
         <header>
             <?php include 'log/header.php'?>
         </header>
