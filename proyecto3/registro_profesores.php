@@ -60,7 +60,7 @@ style="border: 2px solid black;background-color:gray;">
     <textarea class="form-control" name="" id="" rows="3"></textarea>
 </div>
 <a href="#"><button type="button" class="btn btn-primary mb-3">Registrar</button></a>
-<button type="button" class="btn btn-primary mb-3" style="float: right;">Registrar</button>
+<button type="button" class="btn btn-primary mb-3" style="float: right;">BORRAR</button>
 
 
 

@@ -12,3 +12,10 @@ function nota() {
     resultados=(Number(nota1)+Number(nota2)+Number(nota3))/3;
     document.getElementById("demo4").innerHTML=resultados.toFixed(2);
 }
+function nota2(){
+    var notas=Array();
+    var resultado=0;
+    var modulo;
+    modulo=document.getElementsByClassName("modulo");
+    console.log(modulo);
+}
