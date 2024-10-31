@@ -58,10 +58,17 @@ style="border: 2px solid black;background-color:gray;">
 <div class="mb-3">
     <label for="" class="form-label">OBSERVACION</label>
     <label for="" class="form-label"></label>
+<<<<<<< HEAD
     <textarea class="form-control" name="observacion" id="" rows="3"></textarea>
 </div>
 <a href="#"><button type="submit"  class="btn btn-primary mb-3">Registrar</button></a>
 <button type="reset" class="btn btn-primary mb-3" style="float: right;">BORRAR</button>
+=======
+    <textarea class="form-control" name="" id="" rows="3"></textarea>
+</div>
+<a href="#"><button type="button" class="btn btn-primary mb-3">Registrar</button></a>
+<button type="button" class="btn btn-primary mb-3" style="float: right;">BORRAR</button>
+>>>>>>> 429ddb93fba2919732d0adad8269cfe76ea83e1d
 
 </form>
 
