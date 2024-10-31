@@ -1,3 +1,4 @@
+
 function nota() {
     var nota1=0;
     var nota2=0;
