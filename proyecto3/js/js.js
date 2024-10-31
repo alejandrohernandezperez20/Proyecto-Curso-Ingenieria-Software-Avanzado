@@ -31,10 +31,3 @@ function nota2(){
     resultados=(Number(notas[0])+Number(notas[1])+Number(notas[2]))/3;
     document.getElementById("demo4").innerHTML=resultados.toFixed(2);
 }
-function nota2(){
-    var notas=Array();
-    var resultado=0;
-    var modulo;
-    modulo=document.getElementsByClassName("modulo");
-    console.log(modulo);
-}

@@ -1,8 +1,5 @@
 <?php include 'log/header.php' ?>
-<<<<<<< HEAD
 <script src="js/js2.js"></script>
-=======
->>>>>>> 429ddb93fba2919732d0adad8269cfe76ea83e1d
 <script src="js/js.js"></script><!---se coloco el script para la funcion--->
 <!---botones------>
 
@@ -15,17 +12,10 @@
             </svg>IFCD0110</button></a>
     <button type="button" class="btn btn-primary"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-folder2" viewBox="0 0 16 16">
                 <path d="M1 3.5A1.5 1.5 0 0 1 2.5 2h2.764c.958 0 1.76.56 2.311 1.184C7.985 3.648 8.48 4 9 4h4.5A1.5 1.5 0 0 1 15 5.5v7a1.5 1.5 0 0 1-1.5 1.5h-11A1.5 1.5 0 0 1 1 12.5zM2.5 3a.5.5 0 0 0-.5.5V6h12v-.5a.5.5 0 0 0-.5-.5H9c-.964 0-1.71-.629-2.174-1.154C6.374 3.334 5.82 3 5.264 3zM14 7H2v5.5a.5.5 0 0 0 .5.5h11a.5.5 0 0 0 .5-.5z" />
-<<<<<<< HEAD
             </svg>IFCTO31P0</button>
     <button type="button" class="btn btn-primary"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-folder2" viewBox="0 0 16 16">
                 <path d="M1 3.5A1.5 1.5 0 0 1 2.5 2h2.764c.958 0 1.76.56 2.311 1.184C7.985 3.648 8.48 4 9 4h4.5A1.5 1.5 0 0 1 15 5.5v7a1.5 1.5 0 0 1-1.5 1.5h-11A1.5 1.5 0 0 1 1 12.5zM2.5 3a.5.5 0 0 0-.5.5V6h12v-.5a.5.5 0 0 0-.5-.5H9c-.964 0-1.71-.629-2.174-1.154C6.374 3.334 5.82 3 5.264 3zM14 7H2v5.5a.5.5 0 0 0 .5.5h11a.5.5 0 0 0 .5-.5z" />
             </svg>IFCTO29PO</button>
-=======
-            </svg>IFCTO031P0</button>
-    <button type="button" class="btn btn-primary"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-folder2" viewBox="0 0 16 16">
-                <path d="M1 3.5A1.5 1.5 0 0 1 2.5 2h2.764c.958 0 1.76.56 2.311 1.184C7.985 3.648 8.48 4 9 4h4.5A1.5 1.5 0 0 1 15 5.5v7a1.5 1.5 0 0 1-1.5 1.5h-11A1.5 1.5 0 0 1 1 12.5zM2.5 3a.5.5 0 0 0-.5.5V6h12v-.5a.5.5 0 0 0-.5-.5H9c-.964 0-1.71-.629-2.174-1.154C6.374 3.334 5.82 3 5.264 3zM14 7H2v5.5a.5.5 0 0 0 .5.5h11a.5.5 0 0 0 .5-.5z" />
-            </svg>IFCTO029PO</button>
->>>>>>> 429ddb93fba2919732d0adad8269cfe76ea83e1d
 </div>
 <!----fin---->
 <br>
@@ -47,31 +37,23 @@
         </thead>
         <tbody>
             <tr class="table table-primary">
-<<<<<<< HEAD
                 <td scope="row" class="modulo">MF0950_2: Construcción de páginas web 210</td>
-=======
+
                 <td scope="row">MF0950_2: Construcción de páginas web 210
                 </td>
->>>>>>> 429ddb93fba2919732d0adad8269cfe76ea83e1d
                 <td>210 horas</td>
                 <td id="demo1"></td>
             </tr>
             <tr class="table table-primary">
-<<<<<<< HEAD
                 <td scope="row"  class="modulo">MF0951_2: Integración de componentes software en páginas web</td>
-=======
                 <td scope="row">MF0951_2: Integración de componentes software en páginas
                     web</td>
->>>>>>> 429ddb93fba2919732d0adad8269cfe76ea83e1d
                 <td>180 horas</td>
                 <td id="demo2"></td>
             </tr>
             <tr class="table table-primary">
-<<<<<<< HEAD
                 <td scope="row"  class="modulo">MF0952_2: Publicación de páginas web</td>
-=======
                 <td scope="row">MF0952_2: Publicación de páginas web</td>
->>>>>>> 429ddb93fba2919732d0adad8269cfe76ea83e1d
                 <td>90 horas</td>
                 <td id="demo3"></td>
             </tr>
@@ -83,12 +65,8 @@
 </div>
 <!-------------------------------fin tabala 1------------------------->
 <!----registrar estudiantes------>
-
-<<<<<<< HEAD
 <form action="conect.php" method="post">
-=======
 <form action="">
->>>>>>> 429ddb93fba2919732d0adad8269cfe76ea83e1d
     <div
         class="container"
         style="border: 2px solid black;margin-top:50px;">
@@ -98,26 +76,17 @@
                 <input
                     type="text"
                     class="form-control"
-<<<<<<< HEAD
                     name="nombre"
                     id=""
                     aria-describedby="helpId"
                     placeholder=""
                     style="width: 500px;border:1px solid black;" />
-=======
-                    name=""
-                    id=""
-                    aria-describedby="helpId"
-                    placeholder=""
-                    style="width: 500px;background-color:gray" />
->>>>>>> 429ddb93fba2919732d0adad8269cfe76ea83e1d
             </div>
             <div class="mb-3" style="margin-left:660px; margin-top:-85px;">
                 <label class="form-label"><b>IDENTIFICADOR</b></label>
                 <input
                     type="text"
                     class="form-control"
-<<<<<<< HEAD
                     name="identificacion"
                     id=""
                     aria-describedby="helpId"
@@ -127,28 +96,13 @@
             <div class="mb-3" style="float: right;margin-top: -50px;">
                 <label class="form-label">Calificacion</label>
                 <select name="calificacion" id="">
-=======
-                    name=""
-                    id=""
-                    aria-describedby="helpId"
-                    placeholder=""
-                    style="width: 300px;background-color:gray;" />
-            </div>
-            <div class="mb-3" style="float: right;margin-top: -50px;">
-                <label class="form-label">Calificacion</label>
-                <select name="" id="">
->>>>>>> 429ddb93fba2919732d0adad8269cfe76ea83e1d
                     <option value="1">Apto</option>
                     <option value="0">No Apto</option>
                 </select>
             </div>
         </div>
 
-<<<<<<< HEAD
         <button type="submit" class="btn btn-primary" onclick="enviar()"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-floppy2-fill" viewBox="0 0 16 16">
-=======
-        <button type="submit" class="btn btn-primary"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-floppy2-fill" viewBox="0 0 16 16">
->>>>>>> 429ddb93fba2919732d0adad8269cfe76ea83e1d
                 <path d="M12 2h-2v3h2z" />
                 <path d="M1.5 0A1.5 1.5 0 0 0 0 1.5v13A1.5 1.5 0 0 0 1.5 16h13a1.5 1.5 0 0 0 1.5-1.5V2.914a1.5 1.5 0 0 0-.44-1.06L14.147.439A1.5 1.5 0 0 0 13.086 0zM4 6a1 1 0 0 1-1-1V1h10v4a1 1 0 0 1-1 1zM3 9h10a1 1 0 0 1 1 1v5H2v-5a1 1 0 0 1 1-1" />
             </svg> REGISTRAR</button>
@@ -162,11 +116,7 @@
 
 <!-----modal de consultar--------->
 <div style="float: right;">
-<<<<<<< HEAD
     <form action="consultar.php" method="post">
-=======
-    <form>
->>>>>>> 429ddb93fba2919732d0adad8269cfe76ea83e1d
         <!-- Button trigger modal -->
         <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-person-rolodex" viewBox="0 0 16 16">
@@ -190,11 +140,7 @@
                             <input
                                 type="text"
                                 class="form-control"
-<<<<<<< HEAD
                                 name="identificacion"
-=======
-                                name=""
->>>>>>> 429ddb93fba2919732d0adad8269cfe76ea83e1d
                                 id=""
                                 aria-describedby="helpId"
                                 placeholder="" />

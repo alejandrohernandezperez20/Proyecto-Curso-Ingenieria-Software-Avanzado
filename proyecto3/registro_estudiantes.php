@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php include 'log/header.php' ?>
 <div
     class="container nt-3 mt-5"
@@ -58,7 +57,6 @@
     </div>
     <a href="#"><button type="submit" class="btn btn-primary mb-3">Registrar</button></a>
     <button type="reset" class="btn btn-primary mb-3" style="float: right;">BORRAR</button>
-=======
 <?php include 'log/header.php'?>
 <div
 class="container nt-3 mt-5"
@@ -122,12 +120,10 @@ style="border: 2px solid black;background-color:gray;">
 </div>
 <a href="#"><button type="button" class="btn btn-primary mb-3">Registrar</button></a>
 <button type="button" class="btn btn-primary mb-3" style="float: right;">BORRAR</button>
->>>>>>> 429ddb93fba2919732d0adad8269cfe76ea83e1d
 
 
 
 </div>
-<<<<<<< HEAD
 <?php include 'log/footer.php' ?>
 <script
     src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
@@ -138,17 +134,3 @@ style="border: 2px solid black;background-color:gray;">
     src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
     integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
     crossorigin="anonymous"></script>
-=======
-<?php include 'log/footer.php'?>
-<script
-            src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
-            integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
-            crossorigin="anonymous"
-        ></script>
-
-        <script
-            src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
-            integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
-            crossorigin="anonymous"
-        ></script>
->>>>>>> 429ddb93fba2919732d0adad8269cfe76ea83e1d
